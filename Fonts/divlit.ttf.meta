@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4fd6b879689dedf408dc290db6cc07f2
+timeCreated: 1503465283
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: divlit
+  fontNames:
+  - divlit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

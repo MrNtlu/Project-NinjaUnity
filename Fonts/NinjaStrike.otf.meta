@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9ac1509ab7e2b24893b34537369f2ab
+timeCreated: 1503997712
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ninjastrike
+  fontNames:
+  - Ninjastrike
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
